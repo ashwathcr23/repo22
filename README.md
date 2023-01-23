@@ -1,2 +1,2 @@
 # repo22
-new directory
+this is command practice repository
